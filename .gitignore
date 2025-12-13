@@ -115,4 +115,4 @@ pnpm-lock.yaml
 *.tmp
 *.swp
 .venv/
-MY_MATH/
+

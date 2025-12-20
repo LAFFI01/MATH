@@ -69,3 +69,25 @@ Our focus is on building **strong intuition and practical coding skills**, not o
 ⭐ If you find this repository helpful, please give it a star! It helps motivate us to keep adding more content.
 <!-- Please do not remove this TEMPLATE END comment. -->
 <!-- TEMPLATE END -->
+
+
+# Random Variable
+
+- Discrete Random Variable
+- Continuous Random Variable
+    
+# Probability Distribution
+- Discrete Probability Distributions
+    - Probabilty Mass Function
+    - Cumulative Distribution Function
+- Continuous Probability Distributions
+    - Probability Density Function
+        - Density estimation
+            - Non-parametric density estimation
+                - Kernel Density Estimation
+                - Histogram
+                - Kernel Smoothing
+            - Parametric density estimation
+    - Cumulative Distribution Function
+
+

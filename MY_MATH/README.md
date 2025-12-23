@@ -70,9 +70,39 @@ Our focus is on building **strong intuition and practical coding skills**, not o
 <!-- Please do not remove this TEMPLATE END comment. -->
 <!-- TEMPLATE END -->
 
+# Statistics
+- Define
+- Types
+    - Descriptive
+        - Central Tendency
+            - Mean
+            - Median
+            - Mode
+            - Weighted Mean
+            - Trimmed Mean
+
+        - Variability
+            - Range
+            - SD
+            - IQR
+            - Variance
+            - Coefficient of variance
+            - Mean absolute Deviantion
+
+        - Graphical Representation
+            - Histogram
+            - Scatter plot
+            - Bar chart
+            - ....
+
+    - Inferential
+        - Probability Distribution
+        - H T
+        - R A
+
 
 # Random Variable
-
+ 
 - Discrete Random Variable
 - Continuous Random Variable
     
@@ -85,9 +115,12 @@ Our focus is on building **strong intuition and practical coding skills**, not o
         - Density estimation
             - Non-parametric density estimation
                 - Kernel Density Estimation
-                - Histogram
+                - Hiswtogram
                 - Kernel Smoothing
             - Parametric density estimation
-    - Cumulative Distribution Function
+                - Popular Distribution
+                    - Normal_Distribution
 
+    - Cumulative Distribution Function
+- Skewness
 

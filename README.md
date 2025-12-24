@@ -139,3 +139,5 @@ Our focus is on building **strong intuition and practical coding skills**, not o
             - Square Root Transformer
             - Square Transformer
         - Power Transformer
+            - box cox Transform
+            - Yeo johnson Transform

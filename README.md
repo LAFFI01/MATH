@@ -122,11 +122,20 @@ Our focus is on building **strong intuition and practical coding skills**, not o
                     - Normal_Distribution
                     - Uniform_Distribution
                     - Non_Gausian_Distribution
+                    - Log_Normal_Distribution
+                    - Pareto_Distribution
     - Cumulative Distribution Function
 - Skewness
 - Kurtosis
 - QQ_Plot
 - How to USE PDF
 - How to know Distribution is Normal or Not
-
-
+# Transformation
+- Sklearn_Transformer
+    - Function Transformer
+        - Function Transformer
+            - Log Tansformer
+            - Reciprocal Transformer
+            - Square Root Transformer
+            - Square Transformer
+        - Power Transformer

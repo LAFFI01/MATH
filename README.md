@@ -120,7 +120,13 @@ Our focus is on building **strong intuition and practical coding skills**, not o
             - Parametric density estimation
                 - Popular Distribution
                     - Normal_Distribution
-
+                    - Uniform_Distribution
+                    - Non_Gausian_Distribution
     - Cumulative Distribution Function
 - Skewness
+- Kurtosis
+- QQ_Plot
+- How to USE PDF
+- How to know Distribution is Normal or Not
+
 

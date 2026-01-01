@@ -116,7 +116,7 @@ Our focus is on building **strong intuition and practical coding skills**, not o
             - Non-parametric density estimation
                 - Kernel Density Estimation
                 - Hiswtogram
-                - Kernel Smoothing
+                - Kernel Smoothing                
             - Parametric density estimation
                 - Popular Distribution
                     - Normal_Distribution
@@ -124,6 +124,8 @@ Our focus is on building **strong intuition and practical coding skills**, not o
                     - Non_Gausian_Distribution
                     - Log_Normal_Distribution
                     - Pareto_Distribution
+                    - Bernoulli Distribution
+                    - Binomial Distribution
     - Cumulative Distribution Function
 - Skewness
 - Kurtosis
@@ -141,3 +143,7 @@ Our focus is on building **strong intuition and practical coding skills**, not o
         - Power Transformer
             - box cox Transform
             - Yeo johnson Transform
+
+# Inferential Statistics
+- Sampling Distribution
+- Central Limit Theorem

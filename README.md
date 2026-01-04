@@ -146,4 +146,7 @@ Our focus is on building **strong intuition and practical coding skills**, not o
 
 # Inferential Statistics
 - Sampling Distribution
-- Central Limit Theorem
+- Central Limit Theorem 
+    - Z-procedure
+    - T-procedure
+- Hypothesis Testing
